@@ -1,4 +1,4 @@
-Cardápio online com as seguintes funçôes: 
+Cardápio online com as seguintes funções: 
 - listar os produtos
 - adicionar os produtos ao carrinho
 - verificar itens no carrinho
